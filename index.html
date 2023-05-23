@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+  <meta name="description"
+    content="emnify Tech-Radar: a tool to visualize technology choices, inspire and support Engineering teams at emnify to pick the best technologies for new projects">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>emnify Tech-Radar</title>
+  <link rel="shortcut icon" href="https://www.emnify.com/favicon.ico">
+
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+  <script src="http://zalando.github.io/tech-radar/release/radar-0.7.js"></script>
+
+  <link rel="stylesheet" href="http://zalando.github.io/tech-radar/radar.css">
+</head>
+
+<body>
+
+  <svg id="radar"></svg>
+
+  <script>
+    fetch ("./radar.json")
+      .then(response => response.json())
+      .then(radar => radar_visualization(radar));
+  </script>
+
+  <table>
+    <tr>
+      <td>
+
+        <h3>What is the Tech Radar?</h3>
+
+        <p>
+          The emnify Tech Radar is a list of technologies, complemented by an assessment result, called <em>ring
+            assignment</em>. We use four rings with the following semantics:
+        </p>
+
+        <ul>
+          <li><strong>ADOPT</strong> &mdash; Technologies we are using and want to keep using in the future.</li>
+          <li><strong>TRIAL</strong> &mdash; Technologies that we assessed and think are worth pursuing. We will to try this technology 
+            where we can handle the risk.</li>
+          <li><strong>ASSESS</strong> &mdash; Technologies that we are interested in and want to take for a test run on a small scope.</li>
+          <li><strong>HOLD</strong> &mdash; Technology we use or we have used and don’t want to use for new initiatives anymore.</li>
+        </ul>
+
+      </td>
+      <td>
+
+        <h3>What is the purpose?</h3>
+
+        <p>
+          The Tech Radar is a tool to inspire and support Engineering teams at emnify to pick the best technologies for
+          new projects; it provides a platform to share knowledge and experience in technologies, to reflect on
+          technology decisions and continuously evolve our technology landscape. Based on the <a
+            href="https://www.thoughtworks.com/radar">pioneering work of ThoughtWorks</a>, our Tech Radar sets out the
+          changes in technologies that are interesting in software development &mdash; changes that we think our
+          engineering teams should pay attention to and use in their projects.
+        </p>
+
+        <p>
+          <em>BTW, if you would like to create your own Tech Radar &mdash; Zalando has <a
+              href="https://github.com/zalando/tech-radar">open sourced the code</a> to generate this
+            visualization.</em>
+        </p>
+
+      </td>
+    </tr>
+  </table>
+
+</body>
+
+</html>
