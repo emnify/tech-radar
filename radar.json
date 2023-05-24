@@ -388,7 +388,7 @@
           "moved":0
        },
        {
-          "label":"eBPF",
+          "label":"eBPF/XDP",
           "quadrant":1,
           "ring":1,
           "active":"TRUE",
