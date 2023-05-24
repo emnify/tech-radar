@@ -458,11 +458,18 @@
         "moved":1
      },
      {
-        "label":"[Java|Type]Script",
+        "label":"JavaScript",
         "quadrant":1,
         "ring":3,
         "active":"TRUE",
         "moved":0
      },
+     {
+        "label":"TypeScript",
+        "quadrant":1,
+        "ring":3,
+        "active":"TRUE",
+        "moved":0
+     }
     ]
  }
