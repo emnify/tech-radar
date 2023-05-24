@@ -344,7 +344,14 @@
           "ring":0,
           "active":"TRUE",
           "moved":0
-       },
+       },       
+       {
+         "label":"GraphQL",
+         "quadrant":1,
+         "ring":1,
+         "active":"TRUE",
+         "moved":0
+      },
        {
           "label":"Java",
           "quadrant":1,
@@ -449,6 +456,13 @@
         "ring":2,
         "active":"TRUE",
         "moved":1
-     }
+     },
+     {
+        "label":"[Java|Type]Script",
+        "quadrant":1,
+        "ring":3,
+        "active":"TRUE",
+        "moved":0
+     },
     ]
  }
