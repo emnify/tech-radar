@@ -465,9 +465,9 @@
         "moved":0
      },
      {
-        "label":"TypeScript",
+        "label":"TypeScript/Javascript",
         "quadrant":1,
-        "ring":3,
+        "ring":1,
         "active":"TRUE",
         "moved":0
      }
