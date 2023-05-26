@@ -313,9 +313,9 @@
        {
           "label":"VPP",
           "quadrant":1,
-          "ring":0,
+          "ring":3,
           "active":"TRUE",
-          "moved":0
+          "moved":-1
        },
        {
           "label":"Akka",
@@ -397,7 +397,7 @@
        {
           "label":"eBPF/XDP",
           "quadrant":1,
-          "ring":1,
+          "ring":0,
           "active":"TRUE",
           "moved":1
        },
