@@ -315,7 +315,7 @@
           "quadrant":1,
           "ring":3,
           "active":"TRUE",
-          "moved":0
+          "moved":-1
        },
        {
           "label":"Akka",
