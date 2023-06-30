@@ -360,6 +360,13 @@
           "moved":0
        },
        {
+          "label":"Python",
+          "quadrant":1,
+          "ring":0,
+          "active":"TRUE",
+          "moved":0
+       },
+       {
           "label":"Kafka Streams",
           "quadrant":1,
           "ring":0,
