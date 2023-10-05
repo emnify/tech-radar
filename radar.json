@@ -474,9 +474,9 @@
     {
       "label": "TypeScript",
       "quadrant": 1,
-      "ring": 3,
+      "ring": 0,
       "active": "TRUE",
-      "moved": 0
+      "moved": 1
     }
   ]
 }
