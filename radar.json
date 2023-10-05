@@ -477,6 +477,13 @@
       "ring": 0,
       "active": "TRUE",
       "moved": 1
+    },
+    {
+      "label": "Cypress",
+      "quadrant": 0,
+      "ring": 0,
+      "active": "TRUE",
+      "moved": 0
     }
   ]
 }
