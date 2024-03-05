@@ -147,7 +147,7 @@
       "quadrant": 3,
       "ring": 0,
       "active": "TRUE",
-      "moved": 1
+      "moved": 0
     },
     {
       "label": "AWS Lambda",
@@ -189,14 +189,14 @@
       "quadrant": 0,
       "ring": 3,
       "active": "TRUE",
-      "moved": -1
+      "moved": 0
     },
     {
       "label": "AWS Athena",
       "quadrant": 3,
       "ring": 1,
       "active": "TRUE",
-      "moved": 1
+      "moved": 0
     },
     {
       "label": "AWS CodeBuild/Pipeline",
@@ -238,14 +238,14 @@
       "quadrant": 2,
       "ring": 0,
       "active": "TRUE",
-      "moved": 1
+      "moved": 0
     },
     {
       "label": "AWS EKS",
       "quadrant": 2,
-      "ring": 1,
+      "ring": 0,
       "active": "TRUE",
-      "moved": 0
+      "moved": 1
     },
     {
       "label": "AWS Transit Gateway",
@@ -287,7 +287,7 @@
       "quadrant": 3,
       "ring": 0,
       "active": "TRUE",
-      "moved": 1
+      "moved": 0
     },
     {
       "label": "AWS Redshift",
@@ -308,14 +308,14 @@
       "quadrant": 0,
       "ring": 0,
       "active": "TRUE",
-      "moved": 1
+      "moved": 0
     },
     {
       "label": "VPP",
       "quadrant": 1,
       "ring": 3,
       "active": "TRUE",
-      "moved": -1
+      "moved": 0
     },
     {
       "label": "Akka",
@@ -406,7 +406,7 @@
       "quadrant": 1,
       "ring": 0,
       "active": "TRUE",
-      "moved": 1
+      "moved": 0
     },
     {
       "label": "Angular",
@@ -462,7 +462,7 @@
       "quadrant": 0,
       "ring": 2,
       "active": "TRUE",
-      "moved": 1
+      "moved": 0
     },
     {
       "label": "JavaScript",
@@ -476,7 +476,7 @@
       "quadrant": 1,
       "ring": 0,
       "active": "TRUE",
-      "moved": 1
+      "moved": 0
     },
     {
       "label": "Cypress",
