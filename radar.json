@@ -103,6 +103,13 @@
     {
       "label": "Miro",
       "quadrant": 0,
+      "ring": 3,
+      "active": "TRUE",
+      "moved": 0
+    },
+    {
+      "label": "Figjam",
+      "quadrant": 0,
       "ring": 0,
       "active": "TRUE",
       "moved": 0
@@ -110,7 +117,7 @@
     {
       "label": "Sisense",
       "quadrant": 0,
-      "ring": 1,
+      "ring": 3,
       "active": "TRUE",
       "moved": 0
     },
@@ -320,7 +327,14 @@
     {
       "label": "Akka",
       "quadrant": 1,
-      "ring": 0,
+      "ring": 3,
+      "active": "TRUE",
+      "moved": 0
+    },
+   {
+      "label": "Pekko",
+      "quadrant": 1,
+      "ring": 1,
       "active": "TRUE",
       "moved": 0
     },
