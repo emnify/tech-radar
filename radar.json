@@ -498,6 +498,90 @@
       "ring": 0,
       "active": "TRUE",
       "moved": 0
+    },
+    {
+      "label": "CloudFront",
+      "quadrant": 2,
+      "ring": 0,
+      "active": "TRUE",
+      "moved": 0
+    },
+    {
+      "label": "AWS Glue",
+      "quadrant": 3,
+      "ring": 0,
+      "active": "TRUE",
+      "moved": 0
+    },
+    {
+      "label": "AWS S3",
+      "quadrant": 3,
+      "ring": 0,
+      "active": "TRUE",
+      "moved": 0
+    },
+    {
+      "label": "Apache Iceberg",
+      "quadrant": 3,
+      "ring": 1,
+      "active": "TRUE",
+      "moved": 2
+    },
+    {
+      "label": "AWS Application Load Balancer",
+      "quadrant": 2,
+      "ring": 0,
+      "active": "TRUE",
+      "moved": 0
+    },
+    {
+      "label": "AWS Route 53",
+      "quadrant": 2,
+      "ring": 0,
+      "active": "TRUE",
+      "moved": 0
+    },
+    {
+      "label": "AWS SQS(Simple Queue Service)",
+      "quadrant": 2,
+      "ring": 0,
+      "active": "TRUE",
+      "moved": 0
+    },
+    {
+      "label": "AWS SSM(Systems Manager - Parameter Store)",
+      "quadrant": 2,
+      "ring": 0,
+      "active": "TRUE",
+      "moved": 0
+    },
+    {
+      "label": "AWS Secrets Manager",
+      "quadrant": 2,
+      "ring": 0,
+      "active": "TRUE",
+      "moved": 0
+    },
+    {
+      "label": "AWS Certificate Manager",
+      "quadrant": 2,
+      "ring": 0,
+      "active": "TRUE",
+      "moved": 0
+    },
+    {
+      "label": "AWS KMS(Key Management Service)",
+      "quadrant": 3,
+      "ring": 0,
+      "active": "TRUE",
+      "moved": 0
+    },
+    {
+      "label": "Serverless Framework",
+      "quadrant": 1,
+      "ring": 3,
+      "active": "TRUE",
+      "moved": -1
     }
   ]
 }
