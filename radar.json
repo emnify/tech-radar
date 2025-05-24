@@ -124,7 +124,7 @@
     {
       "label": "SonarCloud",
       "quadrant": 0,
-      "ring": 1,
+      "ring": 0,
       "active": "TRUE",
       "moved": 0
     },
@@ -173,7 +173,7 @@
     {
       "label": "Github Actions",
       "quadrant": 0,
-      "ring": 1,
+      "ring": 3,
       "active": "TRUE",
       "moved": 0
     },
@@ -201,7 +201,7 @@
     {
       "label": "AWS Athena",
       "quadrant": 3,
-      "ring": 1,
+      "ring": 0,
       "active": "TRUE",
       "moved": 0
     },
@@ -232,6 +232,13 @@
       "ring": 3,
       "active": "TRUE",
       "moved": 0
+    },
+    {
+      "label": "Superset",
+      "quadrant": 0,
+      "ring": 0,
+      "active": "TRUE",
+      "moved": 1
     },
     {
       "label": "Aurora MySQL Serverless",
@@ -362,7 +369,7 @@
     {
       "label": "GraphQL",
       "quadrant": 1,
-      "ring": 1,
+      "ring": 0,
       "active": "TRUE",
       "moved": 0
     },
@@ -432,7 +439,7 @@
     {
       "label": "Ansible",
       "quadrant": 1,
-      "ring": 0,
+      "ring": 3,
       "active": "TRUE",
       "moved": 0
     },
@@ -474,7 +481,7 @@
     {
       "label": "Backstage",
       "quadrant": 0,
-      "ring": 2,
+      "ring": 0,
       "active": "TRUE",
       "moved": 0
     },
@@ -523,7 +530,7 @@
     {
       "label": "Apache Iceberg",
       "quadrant": 3,
-      "ring": 1,
+      "ring": 0,
       "active": "TRUE",
       "moved": 2
     },
