@@ -328,7 +328,7 @@
       "label": "VPP",
       "quadrant": 1,
       "ring": 3,
-      "active": "TRUE",
+      "active": "FALSE",
       "moved": 0
     },
     {
