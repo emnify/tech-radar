@@ -173,9 +173,9 @@
     {
       "label": "Github Actions",
       "quadrant": 0,
-      "ring": 3,
+      "ring": 0,
       "active": "TRUE",
-      "moved": 0
+      "moved": 1
     },
     {
       "label": "Grafana LGTM Stack",
@@ -190,6 +190,13 @@
       "ring": 0,
       "active": "TRUE",
       "moved": 0
+    },
+    {
+      "label": "ArgoCD",
+      "quadrant": 0,
+      "ring": 0,
+      "active": "TRUE",
+      "moved": 2
     },
     {
       "label": "Prometheus",
