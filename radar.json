@@ -584,6 +584,20 @@
       "moved": 2
     },
     {
+      "label": "Apache Airflow",
+      "quadrant": 3,
+      "ring": 0,
+      "active": "TRUE",
+      "moved": 2
+    },
+    {
+      "label": "StarRocks",
+      "quadrant": 3,
+      "ring": 0,
+      "active": "TRUE",
+      "moved": 2
+    },
+    {
       "label": "AWS Application Load Balancer",
       "quadrant": 2,
       "ring": 0,
