@@ -94,7 +94,7 @@
       "moved": 0
     },
     {
-      "label": "DBT (Cloud)",
+      "label": "DBT",
       "quadrant": 3,
       "ring": 0,
       "active": "TRUE",
@@ -171,11 +171,25 @@
       "moved": 0
     },
     {
+      "label": "Kafka Connect",
+      "quadrant": 3,
+      "ring": 0,
+      "active": "TRUE",
+      "moved": 2
+    },
+    {
+      "label": "Debezium",
+      "quadrant": 3,
+      "ring": 0,
+      "active": "TRUE",
+      "moved": 2
+    },
+    {
       "label": "Github Actions",
       "quadrant": 0,
-      "ring": 3,
+      "ring": 0,
       "active": "TRUE",
-      "moved": 0
+      "moved": 1
     },
     {
       "label": "Grafana LGTM Stack",
@@ -185,11 +199,32 @@
       "moved": 0
     },
     {
+      "label": "OpenTelemetry",
+      "quadrant": 0,
+      "ring": 0,
+      "active": "TRUE",
+      "moved": 2
+    },
+    {
       "label": "Jenkins",
       "quadrant": 0,
       "ring": 0,
       "active": "TRUE",
       "moved": 0
+    },
+    {
+      "label": "ArgoCD",
+      "quadrant": 0,
+      "ring": 0,
+      "active": "TRUE",
+      "moved": 2
+    },
+    {
+      "label": "Helm",
+      "quadrant": 0,
+      "ring": 0,
+      "active": "TRUE",
+      "moved": 2
     },
     {
       "label": "Prometheus",
@@ -260,6 +295,20 @@
       "ring": 0,
       "active": "TRUE",
       "moved": 1
+    },
+    {
+      "label": "Karpenter",
+      "quadrant": 2,
+      "ring": 0,
+      "active": "TRUE",
+      "moved": 2
+    },
+    {
+      "label": "Envoy",
+      "quadrant": 2,
+      "ring": 0,
+      "active": "TRUE",
+      "moved": 2
     },
     {
       "label": "AWS Transit Gateway",
@@ -529,6 +578,20 @@
     },
     {
       "label": "Apache Iceberg",
+      "quadrant": 3,
+      "ring": 0,
+      "active": "TRUE",
+      "moved": 2
+    },
+    {
+      "label": "Apache Airflow",
+      "quadrant": 3,
+      "ring": 0,
+      "active": "TRUE",
+      "moved": 2
+    },
+    {
+      "label": "StarRocks",
       "quadrant": 3,
       "ring": 0,
       "active": "TRUE",
